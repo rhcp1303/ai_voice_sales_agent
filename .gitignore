@@ -9,3 +9,4 @@ static/
 *~
 temp/
 *.png
+/.env
